@@ -33,6 +33,7 @@ public class report {
 	{
 		extent.createTest("Ashwini");
 		System.out.println("adasd");
+		System.out.println("Ashwini1");
 		
 	}
 	
